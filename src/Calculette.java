@@ -8,7 +8,7 @@ public class Calculette {
         return a - b ;
     }
 
-    public static int division(int a, int b) {
+    public static float division(int a, int b) {
         return a / b ;
     }
     //test
