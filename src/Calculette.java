@@ -14,6 +14,9 @@ public class Calculette {
     public static float division(int a, int b) {
         return a / b ;
     }
+    public static int modulo(int a, int b) {
+        return a % b ;
+    }
     //test
 
         public static void main(String[] args) {
