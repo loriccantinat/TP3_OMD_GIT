@@ -9,6 +9,7 @@ public class Calculette {
     }
     public static int multiplication(int a, int b) {
         return a * b ;
+    }
 
     public static float division(int a, int b) {
         return a / b ;
