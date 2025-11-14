@@ -11,6 +11,7 @@ public class Calculette {
         return a * b ;
     }
 
+    //caca gros caca qui pue : bougnoule
     public static float division(int a, int b) {
         return a / b ;
     }
