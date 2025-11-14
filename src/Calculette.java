@@ -12,6 +12,7 @@ public class Calculette {
     }
 
     public static float division(int a, int b) {
+        //divise
         return a / b ;
     }
     //test
