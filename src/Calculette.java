@@ -11,7 +11,8 @@ public class Calculette {
         return a * b ;
     }
 
-    public static float division(int a, int b) {
+    public static float divise(int a, int b) {
+        // modifs
         return a / b ;
     }
     //test
