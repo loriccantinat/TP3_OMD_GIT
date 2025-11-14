@@ -11,7 +11,7 @@ public class Calculette {
     public static float division(int a, int b) {
         return a / b ;
     }
-    //test test
+    //test
 
         public static void main(String[] args) {
         System.out.println("1 + 3 = " + addition(1,3));
